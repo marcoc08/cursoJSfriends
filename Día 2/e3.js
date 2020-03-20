@@ -12,7 +12,7 @@
 
 //siguiente ejercicio
 
-//const paragraph= "Anita lava la tina dentro de su casa con su mama que le ayuda a enjuagar las cosas";
+//const paragraph= "Anita lava la tina dentro de su casa con su mama que le ayuda a enjuagar las cosas para que estén limpias";
 
 //const paragraph1 = paragraph.split('');
 
