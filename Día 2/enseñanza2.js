@@ -5,8 +5,7 @@ const finalname = nameToreverse.join('');
 console.log(`${normal},
 ${nameToArray},
 ${nameToreverse},
-${finalname}`
-)
+${finalname}`)
 
 const finalname2 = normal.split('').reverse().join('');
 console.log(finalname2);
